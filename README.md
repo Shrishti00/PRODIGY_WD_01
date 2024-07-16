@@ -1,4 +1,4 @@
-# PResponsive Landing Website
+# Responsive Landing Website
 
 Welcome to the Responsive Landing website! This project showcases a simple yet functional website structure designed using HTML, CSS, and a touch of JavaScript for dynamic behavior.
 
