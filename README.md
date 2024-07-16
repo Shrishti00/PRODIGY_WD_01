@@ -1,6 +1,6 @@
-# Prodigy InfoTech Website
+# PResponsive Landing Website
 
-Welcome to the Prodigy InfoTech website! This project showcases a simple yet functional website structure designed using HTML, CSS, and a touch of JavaScript for dynamic behavior.
+Welcome to the Responsive Landing website! This project showcases a simple yet functional website structure designed using HTML, CSS, and a touch of JavaScript for dynamic behavior.
 
 ## Table of Contents
 
@@ -41,7 +41,7 @@ The header dynamically changes its appearance on the scroll; each section is hig
 
 1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/Shrishti00/PRODIGY_WD_01)
+   git clone https://github.com/Shrishti00/PRODIGY_WD_01
    ```
 
 2. **Navigate to the project directory:**
@@ -55,13 +55,11 @@ The header dynamically changes its appearance on the scroll; each section is hig
 
 ## Credits
 
-- **Author:** [Shrishti Singh]
+- **Author:** Shrishti Singh
 
 
 ---
 
-Feel free to modify and expand upon this project as needed! If you have any questions or feedback, please contact [shrishtiisinghh@gmail.com].
+Feel free to modify and expand upon this project as needed!
 
 ---
-
-This README provides a concise overview of the project, its structure, and how to set it up, and credits the author appropriately. Adjust the placeholders ([Your Name], [your repository URL], etc.) with your actual details.
